@@ -27,7 +27,7 @@ body{
 
 main{
     background-color: white;
-    height: 450px;
+    height: 480px;
     width: 300px;
     display: grid;
     justify-items: center;
@@ -44,10 +44,12 @@ h1{
     font-weight: 700;
     font-size: 18px;
     padding: 0px 31px;
+    color: var(--Slate900);
 }
 
 p{
     font-weight: 400;
     font-size: 15px;
     padding: 0px 31px;
+    color: var(--Slate500);
 }
